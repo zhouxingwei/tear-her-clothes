@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tearcloth</string>
+    <string name="youth">清纯型</string>
+    <string name="nature">成熟型</string>
+    <string name="dummy_button">Hi Girls</string>
+    <string name="dummy_content">HI\nGIRLS</string>
+</resources>
